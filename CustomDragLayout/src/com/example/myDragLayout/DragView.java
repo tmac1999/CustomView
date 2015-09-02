@@ -23,6 +23,7 @@ public class DragView extends FrameLayout {
 
 		
 	}
+	jjjkhhhhhjhkhkhhkj
 
 	ViewDragHelper.Callback callBack = new ViewDragHelper.Callback() {
 
